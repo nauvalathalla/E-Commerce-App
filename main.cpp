@@ -39,7 +39,7 @@ int main() {
     cout << "|       FIND YOUR FAVORITE ITEMS, ENJOY GREAT DEALS & HAPPY SHOPPING ^_^       |" << endl;
     cout << "|                                                                              |" << endl;
     cout << "+------------------------------------------------------------------------------+" << endl;
-    cout << "|                        MR. SYAHRIL ARFIAN ALMAZRIL                           |" << endl;
+    cout << "|                          Nauval Yusriya Athalla                              |" << endl;
     cout << "+------------------------------------------------------------------------------+" << endl;
     cout << endl << endl;
 
@@ -603,7 +603,6 @@ int main() {
             cout << "|*               HOPE YOU HAVE A WONDERFUL SHOPPING DAY :)                    *|" << endl;
             cout << "|*                                                                            *|" << endl;
             cout << "|*                                                                            *|" << endl;
-            cout << "|*                       MR. SYAHRIL ARFIAN ALMAZRIL                          *|" << endl;
             cout << "|******************************************************************************|" << endl;
             cout << "+------------------------------------------------------------------------------+" << endl;
             cout << endl << endl << endl;
