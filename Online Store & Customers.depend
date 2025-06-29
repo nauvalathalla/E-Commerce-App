@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734594343 source:c:\exercise program\online store & customers\online store & customers\sourcefile.cpp
+	"Header.h"
+
+1734594343 c:\exercise program\online store & customers\online store & customers\header.h
+	<iostream>
+

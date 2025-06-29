@@ -1,0 +1,90 @@
+# Format Keterangan Data Yang Dibutuhkan
++-------------------------------------------+          +-------------------------------------------+
+| ID      | Nama       | Kota               |          | ID      | Kategori    | Nama Barang       |
++-------------------------------------------+          +-------------------------------------------+
+| 56342   | Iqbal      | Jakarta            |          | 34265   | Pakaian     | T-Shirt           |
+| 87234   | Arief      | Bandung            |          | 45321   | Pakaian     | Jeans             |
+| 34125   | Rani       | Surabaya           |          | 56789   | Pakaian     | Hoodie            |
+| 98456   | Andre      | Yogyakarta         |          | 78901   | Aksesoris   | Topi              |
+| 71234   | Tika       | Makassar           |          | 89123   | Aksesoris   | Sunglasses        |
+| 65321   | Zaki       | Medan              |          | 90234   | Aksesoris   | Necklace          |
+| 47895   | Maya       | Denpasar           |          | 13456   | Kecantikan  | Lipstick          |
+| 89023   | Budi       | Bogor              |          | 24678   | Kecantikan  | FaceCream         |
+| 23489   | Dian       | Palembang          |          | 35789   | Kecantikan  | Perfume           |
+| 56789   | Eka        | Samarinda          |          | 46890   | Sepatu      | Sneakers          |
++-------------------------------------------+          +-------------------------------------------+
+
+
+# Gunakan Yang Ada Dibawah Ini!
+=== List User (10) ===
+
+56342
+Iqbal
+Jakarta
+87234
+Arief
+Bandung
+34125
+Rani
+Surabaya
+98456
+Andre
+Yogyakarta
+71234
+Tika
+Makassar
+65321
+Zaki
+Medan
+47895
+Maya
+Denpasar
+89023
+Budi
+Bogor
+23489
+Dian
+Palembang
+56789
+Eka
+Samarinda
+
+=======================
+
+
+
+=== List Barang(10) ===
+
+34265
+Pakaian
+T-Shirt
+45321
+Pakaian
+Jeans
+56789
+Pakaian
+Hoodie
+78901
+Aksesoris
+Topi
+89123
+Aksesoris
+Sunglasses
+90234
+Aksesoris
+Necklace
+13456
+Kecantikan
+Lipstick
+24678
+Kecantikan
+FaceCream
+35789
+Kecantikan
+Perfume
+46890
+Sepatu
+Sneakers
+
+======================
+
